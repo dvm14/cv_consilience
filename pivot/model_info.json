@@ -1,0 +1,12 @@
+{
+  "job_id": "ftjob-9VjIPpfOLSD31ObPu62UW1ue",
+  "fine_tuned_model": "ft:gpt-4o-mini-2024-07-18:duke-trust-lab::DRRVZKfz:ckpt-step-32",
+  "best_checkpoint": "ft:gpt-4o-mini-2024-07-18:duke-trust-lab::DRRVZKfz:ckpt-step-32",
+  "checkpoint_metrics": {
+    "best_valid_loss": 0.7940740697319174,
+    "step_number": 32
+  },
+  "train_file_id": "file-KJxJugKk2W6tRqwCgp3KtC",
+  "validation_file_id": "file-LkjtGia3sR7h3piWR1DTWa",
+  "n_epochs": 3
+}
